@@ -270,4 +270,11 @@ export const data=[
         "siteDesc":"github is a open source for coders",
         "category":"Development"
     },
+    
+    {
+        "siteName":"Quillbot",
+        "siteURL":"https://quillbot.com/",
+        "siteDesc":"It is an AI-powered text rephrasing tool",
+        "category":"Others"
+    },
   ]
